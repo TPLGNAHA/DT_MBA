@@ -1,4 +1,6 @@
-DT MAZE BANK ARENA - FiveM
+# DT MAZE BANK ARENA - FiveM
+
+
 Cette ressource permet de modifier l'apparence et la structure de la Maze Bank Arena sur votre serveur FiveM. Elle utilise le mapping Gabz Maze Bank Arena comme base et nécessite quelques dépendances pour fonctionner correctement.
 
 Description
@@ -23,10 +25,12 @@ Ajoutez la ressource à votre server.cfg :
 
 
 ensure ox_lib
+
 ensure cfx-gabz-mba
 
 
-Crédits
+Crédits:
+
 Ressource originale créée par Scully
 Modifications et intégration par NAHA
 
