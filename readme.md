@@ -23,7 +23,7 @@ Placez la ressource dans votre dossier resources.
 
 Ajoutez la ressource à votre server.cfg :
 
-ensure ox_lib \n
+ensure ox_lib
 
 ensure cfx-gabz-mba
 
