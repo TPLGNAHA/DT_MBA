@@ -36,3 +36,5 @@ Modifications et intégration par NAHA
 
 Previews : 
 https://cdn.discordapp.com/attachments/1158717357464760370/1356071456559333466/2025-03-31_03-01-27.mp4?ex=67eb3b75&is=67e9e9f5&hm=0f073e63596255bbe9187dc9008024aee4cc7e1332d495b97968f0acd25007bd&
+
+DISCORD : https://discord.gg/b7UBG6Yhnt
